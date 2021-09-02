@@ -1,0 +1,4 @@
+jdk 
+IDE ( Intellij, eclipse, netbeans)
+maven 
+application server ( wildFly ) 
